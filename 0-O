@@ -1,0 +1,8 @@
+# Best time complexity case
+O(n)
+
+# Average time complexity case
+O(n^2)
+
+# Worst time complexity case
+O(n^2)
